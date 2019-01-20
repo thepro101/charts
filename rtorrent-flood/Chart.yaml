@@ -4,6 +4,9 @@ home: https://github.com/jfurrow/flood
 description: A web frontend for rtorrent
 name: rtorrent-flood
 version: 0.1.0
+keywords:
+  - flood
+home: https://github.com/jfurrow/flood
+icon: https://raw.githubusercontent.com/jfurrow/flood/master/flood.png
 maintainers:
-  - name: Bryan Alves
-    email: bryanalves@gmail.com
+  - name: Patrick Tully

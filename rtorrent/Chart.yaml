@@ -5,5 +5,4 @@ description: A CLI/XMLRPC torrent client
 name: rtorrent
 version: 0.1.0
 maintainers:
-  - name: Bryan Alves
-    email: bryanalves@gmail.com
+  - name: Patrick Tully
