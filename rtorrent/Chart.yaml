@@ -6,3 +6,4 @@ name: rtorrent
 version: 0.1.0
 maintainers:
   - name: Patrick Tully
+icon: https://github.com/thepro101/charts/raw/master/rtorrent/logo/rtorrent.png 

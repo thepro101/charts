@@ -1,0 +1,8 @@
+apiVersion: v1
+appVersion: "1.0"
+description: XenOrchestra - XenServer and XCP-NG Management 
+name: xenorchestra
+version: 0.1.0
+icon: https://github.com/thepro101/charts/raw/master/xenorchestra/logo/xoa.png 
+maintainers:
+  - name: Patrick Tully
